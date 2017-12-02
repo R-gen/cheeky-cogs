@@ -12,6 +12,9 @@ class testCog:
         """This does stuff!"""
 
         #Your code will go here
+        await self.bot.say("I can do stuff!")
+		
+		
 		
 		
 		async def punch(self, user : discord.Member):
